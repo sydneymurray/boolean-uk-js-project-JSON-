@@ -6,6 +6,6 @@ const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 server.use(router);
-server.listen(3030, () => {
-  console.log("JSON Server is running");
+server.listen(() => {
+  console.log("Syds JSON Server is running");
 });
