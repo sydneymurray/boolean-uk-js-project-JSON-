@@ -129,6 +129,11 @@
       "blockId": "A",
       "prisonerId": 28,
       "id": 28
+    },
+    {
+      "blockId": "B",
+      "prisonerId": 29,
+      "id": 29
     }
   ],
   "prisoners": [
@@ -469,6 +474,19 @@
       "picture": "https://cdn.acidcow.com/pics/20100505/weird_faces_11.jpg",
       "blockCell": "21",
       "id": 28
+    },
+    {
+      "firstName": "Ted",
+      "lastName": "Straker",
+      "crimeType": "Robbery",
+      "goodBehaviour": false,
+      "parole": false,
+      "gangMember": true,
+      "nickName": "Bad Boy",
+      "crimeDetails": "Robbed multiple people",
+      "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_10.jpg",
+      "blockCell": "9",
+      "id": 29
     }
   ]
 }
