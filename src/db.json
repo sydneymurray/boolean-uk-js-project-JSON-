@@ -134,8 +134,19 @@
       "blockId": "B",
       "prisonerId": 29,
       "id": 29
-    }
+    },
+    {
+      "blockId": "A",
+      "prisonerId": 30,
+      "id": 30
+    },
+    {
+      "blockId": "B",
+      "prisonerId": 31,
+      "id": 31
+    }    
   ],
+  
   "prisoners": [
     {
       "id": 1,
@@ -487,6 +498,32 @@
       "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_10.jpg",
       "blockCell": "9",
       "id": 29
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Bartlett",
+      "crimeType": "Manslaughter",
+      "goodBehaviour": false,
+      "parole": false,
+      "gangMember": false,
+      "nickName": "Big Bartlett",
+      "crimeDetails": "Beat a man to death",
+      "picture": "https://cdn.acidcow.com/pics/20091117/hdr_faces_26.jpg",
+      "blockCell": "39",
+      "id": 30 
+    },
+    {
+      "firstName": "Emmanuel",
+      "lastName": "Davies",
+      "crimeType": "Theft",
+      "goodBehaviour": false,
+      "parole": false,
+      "gangMember": false,
+      "nickName": "Manny",
+      "crimeDetails": "Pick pocketer",
+      "picture": "https://cdn.quotesgram.com/img/61/78/1291121222-Funny-Faces-24.jpg",
+      "blockCell": "26",
+      "id": 31 
     }
   ]
 }

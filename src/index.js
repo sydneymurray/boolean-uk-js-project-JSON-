@@ -7,5 +7,5 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(router);
 server.listen(process.env.PORT || 3030, () => {
-  console.log("Syds JSON Server is running");
+  console.log("Prison JSON Server is running");
 });
