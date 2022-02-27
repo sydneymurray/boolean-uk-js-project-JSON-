@@ -154,7 +154,20 @@
   
   "prisoners": [
     {
-      "id": 1,
+      "firstName": "Brian",
+      "lastName": "Barnes",
+      "crimeType": "Rape",
+      "goodBehaviour": false,
+      "parole": false,
+      "gangMember": true,
+      "nickName": "Grizzly Face",
+      "crimeDetails": "Gang Rape",
+      "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_21.jpg",
+      "blockCell": "14",
+      "id": 1
+    },
+    {
+      "id": 2,
       "firstName": "Steven",
       "lastName": "Johnson",
       "crimeType": "Drug Dealing",
@@ -177,19 +190,6 @@
       "crimeDetails": "Killed people by looking at them",
       "picture": "https://th.bing.com/th/id/R325a58047d034e454a5703c326b45adf?rik=0dp%2b7aV8GJKC4Q&riu=http%3a%2f%2fwww.nairaland.com%2fattachments%2f2812753_img20150902192234_jpeg655f049b82529775d3560c7089bae751&ehk=jse761SF2VghIjdeGG%2bhlU0XyLaffVA5XkHR351PhJY%3d&risl=&pid=ImgRaw",
       "blockCell": "15",
-      "id": 2
-    },
-    {
-      "firstName": "Brian",
-      "lastName": "Barnes",
-      "crimeType": "Rape",
-      "goodBehaviour": false,
-      "parole": false,
-      "gangMember": true,
-      "nickName": "Grizzly Face",
-      "crimeDetails": "Gang Rape",
-      "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_21.jpg",
-      "blockCell": "14",
       "id": 3
     },
     {
