@@ -154,16 +154,16 @@
   
   "prisoners": [
     {
-      "firstName": "Brian",
-      "lastName": "Barnes",
-      "crimeType": "Rape",
+      "firstName": "Paul",
+      "lastName": "Bartlett",
+      "crimeType": "Manslaughter",
       "goodBehaviour": false,
       "parole": false,
-      "gangMember": true,
-      "nickName": "Grizzly Face",
-      "crimeDetails": "Gang Rape",
-      "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_21.jpg",
-      "blockCell": "14",
+      "gangMember": false,
+      "nickName": "Big Bartlett",
+      "crimeDetails": "Beat a man to death",
+      "picture": "https://cdn.acidcow.com/pics/20091117/hdr_faces_26.jpg",
+      "blockCell": "39",
       "id": 1
     },
     {
@@ -232,19 +232,6 @@
       "id": 6
     },
     {
-      "firstName": "Paul",
-      "lastName": "Bartlett",
-      "crimeType": "Manslaughter",
-      "goodBehaviour": false,
-      "parole": false,
-      "gangMember": false,
-      "nickName": "Big Bartlett",
-      "crimeDetails": "Beat a man to death",
-      "picture": "https://cdn.acidcow.com/pics/20091117/hdr_faces_26.jpg",
-      "blockCell": "39",
-      "id": 7
-    },
-    {
       "firstName": "Emmanuel",
       "lastName": "Davies",
       "crimeType": "Theft",
@@ -255,7 +242,20 @@
       "crimeDetails": "Pick pocketer",
       "picture": "https://cdn.quotesgram.com/img/61/78/1291121222-Funny-Faces-24.jpg",
       "blockCell": "26",
-      "id": 8 
+      "id": 7 
+    },
+    {
+      "firstName": "Brian",
+      "lastName": "Barnes",
+      "crimeType": "Rape",
+      "goodBehaviour": false,
+      "parole": false,
+      "gangMember": true,
+      "nickName": "Grizzly Face",
+      "crimeDetails": "Gang Rape",
+      "picture": "https://img.izismile.com/img/img2/20091118/funny_crazy_faces_21.jpg",
+      "blockCell": "14",
+      "id": 8
     },
     {
       "id": 9,
