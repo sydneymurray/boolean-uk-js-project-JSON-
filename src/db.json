@@ -36,6 +36,11 @@
       "prisonerId": 7
     },
     {
+      "id": 8,
+      "blockId": "C",
+      "prisonerId": 8
+    },
+    {
       "id": 9,
       "blockId": "A",
       "prisonerId": 9
